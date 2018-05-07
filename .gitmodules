@@ -1,0 +1,3 @@
+[submodule "src/app/sk8border"]
+	path = src/app/sk8border
+	url = https://github.com/sk8border/sk8border.git
